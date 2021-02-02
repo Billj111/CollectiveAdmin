@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "collective-admin"
+  "defaultProject": "collective-admin",
+  "cli": {
+    "analytics": false
+  }
 }
